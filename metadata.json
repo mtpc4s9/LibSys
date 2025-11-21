@@ -1,0 +1,5 @@
+{
+  "name": "LibSys - Modern Library Management",
+  "description": "A comprehensive library management system featuring dashboard analytics, member management, book inventory, circulation desk, and event scheduling.",
+  "requestFramePermissions": []
+}
